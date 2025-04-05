@@ -25,19 +25,22 @@ It simulates the step-by-step execution of sorting and searching algorithms usin
 
 ## 🧠 How It Works
 
-Brief explanation of core logic or architecture.
+ 1. It works on the basis of Questions Parameters like(Memory, time Consuming, Space Required)
+ 2. Overall works on the basis of Data.
 
 ## 📦 Installation
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/kumar2005raj/LogicMorph.git
 
 # Install dependencies
 cd project-name
 npm install
+or
+##
+npm start 
 
-# Run the app
-npm start
+
 
 
