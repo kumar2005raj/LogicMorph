@@ -12,7 +12,9 @@ It simulates the step-by-step execution of sorting and searching algorithms usin
 
 ## 📸 Demo / Screenshots
 
-_Add images or GIFs showing your project in action_
+![Screenshot 2025-04-05 105018](https://github.com/user-attachments/assets/f709310a-2756-4723-a75c-dd35b3243868)
+
+
 
 ## 🛠️ Tech Stack
 
