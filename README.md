@@ -12,9 +12,9 @@ It simulates the step-by-step execution of sorting and searching algorithms usin
 
 ## 📸 Demo / Screenshots
 
-![Screenshot 2025-04-05 105018](https://github.com/user-attachments/assets/f709310a-2756-4723-a75c-dd35b3243868)
-
-
+1. Input Pictures:-  ![Screenshot 2025-04-05 105018](https://github.com/user-attachments/assets/f709310a-2756-4723-a75c-dd35b3243868)
+2. Ouptput Pictures:- ![Screenshot 2025-04-05 105107](https://github.com/user-attachments/assets/b1c01630-42e9-4de2-b743-ff8fab9e4d3a)
+3. Output Pictures:- ![Screenshot 2025-04-05 105136](https://github.com/user-attachments/assets/c2d40056-b47b-4be3-9995-2b85a0314647)
 
 ## 🛠️ Tech Stack
 
