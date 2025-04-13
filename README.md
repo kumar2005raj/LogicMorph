@@ -1,4 +1,5 @@
 # LogicMorph
+## Demo Link:-  https://kumar2005raj.github.io/LogicMorph/
 
 Algorithm Visualizer is a dynamic and interactive web application designed to help users understand how common algorithms work through animated visualizations. 
 It simulates the step-by-step execution of sorting and searching algorithms using colorful bars and transitions, making learning more intuitive and engaging.
